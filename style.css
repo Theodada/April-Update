@@ -1,0 +1,33 @@
+section{
+    background-color: blue;
+}
+.third-section{
+    background-color: brown;
+    margin: 10px;
+    padding: 10px;
+    border: 4px solid red;
+}
+.fourth-section{
+    background-color: aqua;
+    margin: 12px;
+    padding: 12px;
+    border: 4px solid green;
+}
+.second-section{
+    background-color: blueviolet;
+    margin: 12px;
+    padding: 12px;
+    border: 4px solid blue;
+}
+.first-section{
+    background-color: yellowgreen;
+    margin: 12px;
+    padding: 12px;
+    border: 4px solid magenta;
+}
+nav{
+    background-color: yellow;
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid brown;
+}
